@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86122412779",
+    "firebase_url": "https://baacsecurity.firebaseio.com",
+    "project_id": "baacsecurity",
+    "storage_bucket": "baacsecurity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86122412779:android:b26f32dd2d961acd035cae",
+        "android_client_info": {
+          "package_name": "com.androidthai.baacsecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86122412779-644qiffvjo9e6i2k015381a37jt201u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVLIDi_g_LWtbm0PBRN1yvfYN_B07HZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86122412779-644qiffvjo9e6i2k015381a37jt201u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
